@@ -1,0 +1,6 @@
+Num. Inputs:
+Num. Outputs:
+Hiden layers: (finish with -1)
+Learn Const.:
+Aprox. Delta:
+Num. Cases:
